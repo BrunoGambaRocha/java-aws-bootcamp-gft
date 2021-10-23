@@ -1,4 +1,4 @@
-# Dio Spring Boot Web MVC
+# Spring Boot Web MVC
 
 Instrutor: André Luis Gomes e Glauber Cardoso Barboza
 
@@ -10,6 +10,17 @@ Módulo Criando aplicações web com Spring Web MVC - Dio Bootcamp GFT Java & AW
 
 
 <hr>
+
+
+### Tecnologias utiizadas
+- [Spring Initializr](https://start.spring.io/)
+- [Spring Boot: 2.5.6](https://spring.io/projects/spring-boot)
+  - Spring Web - WEB
+  - Thymeleaf - TEMPLATE ENGINES
+
+
+<hr>
+
 
 ### Comandos
 

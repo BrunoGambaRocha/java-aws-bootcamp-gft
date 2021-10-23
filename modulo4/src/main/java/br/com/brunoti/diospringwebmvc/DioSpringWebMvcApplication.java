@@ -9,6 +9,5 @@ public class DioSpringWebMvcApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(DioSpringWebMvcApplication.class, args);
-		System.out.println("Hello Spring!");
 	}
 }
