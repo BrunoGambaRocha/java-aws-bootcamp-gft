@@ -15,12 +15,12 @@ Módulo Criando aplicações web com Spring Web MVC - Dio Bootcamp GFT Java & AW
 ### Tecnologias utiizadas
 - [Spring Initializr](https://start.spring.io/)
 - [Spring Boot: 2.4.12](https://spring.io/projects/spring-boot)
-  - Spring Web (WEB)
-  - Thymeleaf - (TEMPLATE ENGINES)
+  - [Spring Web (WEB)](https://docs.spring.io/spring-boot/docs/2.5.6/reference/htmlsingle/#boot-features-developing-web-applications)
+  - [Thymeleaf - (TEMPLATE ENGINES)](https://docs.spring.io/spring-boot/docs/2.5.6/reference/htmlsingle/#boot-features-spring-mvc-template-engines)
   - Validation - (I/O)
   - H2 Database - (SQL)
-  - Spring Data JPA - (SQL)
-  - Spring Boot DevTools - (DEVELOPER TOOLS)
+  - [Spring Data JPA - (SQL)](https://docs.spring.io/spring-boot/docs/2.5.6/reference/htmlsingle/#boot-features-jpa-and-spring-data)
+  - [Spring Boot DevTools - (DEVELOPER TOOLS)](https://docs.spring.io/spring-boot/docs/2.5.6/reference/htmlsingle/#using-boot-devtools)
 - [Arquitetura REST - Representational State Transfer](https://pt.wikipedia.org/wiki/REST)
 
 
@@ -31,7 +31,11 @@ Módulo Criando aplicações web com Spring Web MVC - Dio Bootcamp GFT Java & AW
 - [accessing-data-jpa](https://spring.io/guides/gs/accessing-data-jpa/)
 - [integrate H2 with Spring Boot](https://roytuts.com/integrate-h2-in-memory-database-with-spring-boot/)
 - [Database Initialization using data.sql and schema.sql](https://www.youtube.com/watch?v=9Yj2TCvrvaE)
-
+- [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+- [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+- [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+- [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+- [Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
 
 <hr>
 
