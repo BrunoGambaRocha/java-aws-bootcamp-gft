@@ -14,14 +14,26 @@ Módulo Criando aplicações web com Spring Web MVC - Dio Bootcamp GFT Java & AW
 
 ### Tecnologias utiizadas
 - [Spring Initializr](https://start.spring.io/)
-- [Spring Boot: 2.5.6](https://spring.io/projects/spring-boot)
-  - Spring Web - WEB
-  - Thymeleaf - TEMPLATE ENGINES
-- [Validating Form Input](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.3-Release-Notes#validation-starter-no-longer-included-in-web-starters)
+- [Spring Boot: 2.4.12](https://spring.io/projects/spring-boot)
+  - Spring Web (WEB)
+  - Thymeleaf - (TEMPLATE ENGINES)
+  - Validation - (I/O)
+  - H2 Database - (SQL)
+  - Spring Data JPA - (SQL)
+  - Spring Boot DevTools - (DEVELOPER TOOLS)
+- [Arquitetura REST - Representational State Transfer](https://pt.wikipedia.org/wiki/REST)
 
 
 <hr>
 
+### Pesquisa complementar
+- [Validating Form Input](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.3-Release-Notes#validation-starter-no-longer-included-in-web-starters)
+- [accessing-data-jpa](https://spring.io/guides/gs/accessing-data-jpa/)
+- [integrate H2 with Spring Boot](https://roytuts.com/integrate-h2-in-memory-database-with-spring-boot/)
+- [Database Initialization using data.sql and schema.sql](https://www.youtube.com/watch?v=9Yj2TCvrvaE)
+
+
+<hr>
 
 ### Comandos
 

@@ -2,7 +2,7 @@
 
 Plataforma de Ensino: [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=K5EF2VCVKA)
 
-Em estudo: 23/10/2021
+Em estudo: 24/10/2021
 
 
 <hr>
