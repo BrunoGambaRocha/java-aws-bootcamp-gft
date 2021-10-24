@@ -17,6 +17,7 @@ Módulo Criando aplicações web com Spring Web MVC - Dio Bootcamp GFT Java & AW
 - [Spring Boot: 2.5.6](https://spring.io/projects/spring-boot)
   - Spring Web - WEB
   - Thymeleaf - TEMPLATE ENGINES
+- [Validating Form Input](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.3-Release-Notes#validation-starter-no-longer-included-in-web-starters)
 
 
 <hr>
@@ -35,6 +36,10 @@ Módulo Criando aplicações web com Spring Web MVC - Dio Bootcamp GFT Java & AW
 [Build](https://docs.gradle.org/current/userguide/command_line_interface.html#computing_all_outputs)
 
 ``` ./gradlew build ```
+
+[Atualizar Dependências](https://docs.gradle.org/current/userguide/command_line_interface.html#sec:command_line_execution_options)
+
+``` ./gradlew --refresh-dependencies bootRun ```
 
 
 <hr>
