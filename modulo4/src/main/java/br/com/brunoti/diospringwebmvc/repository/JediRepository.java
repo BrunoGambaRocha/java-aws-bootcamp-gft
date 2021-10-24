@@ -1,25 +1,17 @@
 package br.com.brunoti.diospringwebmvc.repository;
 
 import br.com.brunoti.diospringwebmvc.model.Jedi;
+import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Repository
-public class JediRepository {
-	private List<Jedi> jedi;
+public interface JediRepository extends CrudRepository<Jedi, Long> {
 
-	public JediRepository() {
-		jedi = new ArrayList<>();
-		jedi.add(new Jedi("Luke", "Skywalker"));
-	}
+	List<Jedi> findAll();
 
-	public List<Jedi> getAllJedi() {
-		return this.jedi;
-	}
+	Jedi findByName(String name);
 
-	public void createJedi(final Jedi jedi) {
-		this.jedi.add(jedi);
-	}
+	Jedi save(Jedi jedi);
 }
