@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.ModelAndView;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import javax.validation.Valid;
 
@@ -43,13 +44,14 @@ public class JediController {
 	}
 
 	@PostMapping("/jedi")
-	public String createJedi(@Valid @ModelAttribute Jedi jedi, BindingResult result) {
+	public String createJedi(@Valid @ModelAttribute Jedi jedi, BindingResult result, RedirectAttributes redirect) {
 
 		if (result.hasErrors()) {
 			return "new-jedi";
 		}
 
 		repository.createJedi(jedi);
+		redirect.addFlashAttribute("message", "Jedi successfully created.");
 
 		return "redirect:jedi";
 	}
