@@ -2,7 +2,7 @@
 
 Plataforma de Ensino: [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=K5EF2VCVKA)
 
-Em estudo: 24/10/2021
+Em estudo: 23/11/2021
 
 
 <hr>
@@ -17,7 +17,7 @@ Em estudo: 24/10/2021
 
 4 - [Criando aplicações web com Spring Web MVC](https://github.com/BrunoGambaRocha/java-aws-bootcamp-gft/tree/main/modulo4)
 
-5 - Microsserviços em Spring Cloud com Java
+5 - [Microsserviços em Spring Cloud com Java](https://github.com/BrunoGambaRocha/java-aws-bootcamp-gft/tree/main/modulo5)
 
 6 - Desafio: Primeiros passos em Java
 
