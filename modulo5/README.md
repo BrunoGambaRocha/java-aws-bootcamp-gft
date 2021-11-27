@@ -45,7 +45,7 @@ Módulo Microsserviços em Spring Cloud com Java - Dio Bootcamp GFT Java & AWS D
 - Modelagem e Persistência de Dados com Spring Data Elasticsearch em uma API REST
 	- [x] [Lab microserviço product-catalog](https://youtu.be/9fQUyN0WvaE)
 - Configurando um Microsserviço de Carrinho de Compras com Spring Data Redis
-	- [ ] Lab microserviço shopping-cart
+	- [x] Lab microserviço shopping-cart
 - Criando um Config Server
 - Conectando os Microsserviços ao Config Server
 	- [ ] Lab microserviço config-server
@@ -93,6 +93,7 @@ Monitorar os logs
 - [GitHub - spring-data-elasticsearch](https://github.com/spring-projects/spring-data-elasticsearch)
 - [Elasticsearch Repositories](https://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/#elasticsearch.repositories)
 - [Using Elasticsearch with Spring Boot](https://reflectoring.io/spring-boot-elasticsearch/)
+- [Connecting to Redis](https://docs.spring.io/spring-data/redis/docs/current/reference/html/#redis:connectors)
 
 
 
